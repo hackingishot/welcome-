@@ -9,4 +9,4 @@ Instagram/Facebook - hackingishot
 Tumblr - hackingishot
 Twitter - hackingishot
 
-In this GitHub Resources Collection, you will find starter code, lessons, and inspiration as you continue your hacking journey. Please feel free to reach out with any questions and/or memes. Happy Hacking.
+In this GitHub Resources Collection, you will find starter code, lessons, and inspiration as you continue your hacking journey. Please feel free to reach out with any questions and/or memes. Happy Hacking!:)
